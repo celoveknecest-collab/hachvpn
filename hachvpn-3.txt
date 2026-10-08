@@ -1,2 +1,0 @@
-#profile-title: hachvpn
-vless://dcf577e0-ae60-4518-8a72-b8e494e21c36@91.237.124.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=jkYt_Cfe6KMTs7K5ezHeUb_QNAOhV8_AhBWi7NJss0Y&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20USA
